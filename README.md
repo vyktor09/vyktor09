@@ -8,7 +8,7 @@
 
 My name is Victor Leite, a Computer science student with an emphasis on Dev and InfoSec, passionate about hacking and gamer/geek culture.
 
-- :office_worker: [Subcitec - Subsecretaria de Ciência e Tecnologia de Niterói](https://cienciaetecnologia.niteroi.rj.gov.br/)
+- :office_worker: [SMCTI - Secretaria Municipal de Ciência, Tecnologia e Inovação de Niterói ](https://cienciaetecnologia.niteroi.rj.gov.br/)
 - :books: Studying all layers in Software Development and Cybersecurity :heart:
 
 **Languages and Tools:**
